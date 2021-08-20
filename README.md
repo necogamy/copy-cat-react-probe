@@ -6,4 +6,4 @@
 * The main objective of this project is to show the advanced techniques of react
 * The other objective is to show the main feature of react that is the live update
 
-## [You can see the project here]()
+## [You can see the project here](https://copy-cat-react-project.netlify.app/)
